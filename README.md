@@ -1,0 +1,2 @@
+# B_TreeDisplay
+使用direct2d简单实现的绘制b树形态，用于展示用。由于老师需要学生实现可以展示b树形态的程序，于是通过阅读msdn的direct2d start实例简单的撸了个简易的b树绘制展示程序。
